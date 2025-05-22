@@ -1,6 +1,7 @@
 # 🚀 **The Ultimate Kubernetes All-in-One Bundle**  
 
-![Kubernetes](https://imgur.com/OMxHx1Z.png)
+![image](https://github.com/user-attachments/assets/7e9ed5bc-a3e4-4c60-bbf3-78fa48bee43d)
+
 
 ## 📌 **Purpose of the Repository**
 
@@ -44,7 +45,8 @@
 
 ## 🔥 **What's Inside?**  
 
-![Kubernetes](https://imgur.com/60qWgLs.png)
+![image](https://github.com/user-attachments/assets/0807eeb9-5364-47eb-b002-eb8595e23288)
+
 
 ### ⚡ **1️⃣ Kubernetes Deployment Manifests**  
 
